@@ -200,9 +200,12 @@ function init(){
   render();
 }
 
-if(document.readyState==="loading"){
-  document.addEventListener("DOMContentLoaded",init);
-} else {
-  init();
+function tryInit(){
+  if(document.getElementById("t4gf")){
+    init();
+  } else {
+    setTimeout(tryInit, 50);
+  }
 }
+tryInit();
 })();
