@@ -27,7 +27,6 @@ var O=[
   ["Diaspora in Action for Human Rights and Democracy (DAHRD)","https://dahrd.org/","Development, Humanitarian Action & Human Rights",0],
   ["Equal Trade Alliance","https://www.equaltradeglobal.org","Development, Humanitarian Action & Human Rights",1],
   ["N'NINKIE","https://www.nninkie.org","Development, Humanitarian Action & Human Rights",1],
-  ["International Commission for Missing Persons (ICMP)","https://icmp.int/","Development, Humanitarian Action & Human Rights",0],
   ["International Institute of Social Studies (ISS)","https://www.iss.nl","Development, Humanitarian Action & Human Rights",0],
   ["ActionAid Netherlands","https://www.actionaid.nl","Development, Humanitarian Action & Human Rights",1],
   ["Global Human Rights Defence (GHRD)","https://www.ghrd.org","Development, Humanitarian Action & Human Rights",1],
