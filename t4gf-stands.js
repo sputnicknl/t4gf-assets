@@ -67,7 +67,6 @@ var O=[
   ["UWV EURES","https://www.werk.nl/eures","Entrepreneurship & Local Impact",0],
   ["Student Consultancy The Hague","https://www.studentconsultancythehague.com/","Entrepreneurship & Local Impact",0],
   ["Forerunners Consulting and Coaching","https://www.forerunnersconsulting-coaching.com","Entrepreneurship & Local Impact",1],
-  ["Stichting StepUp Team","https://www.stepupteam.nl","Entrepreneurship & Local Impact",0],
   ["Inclusion Unfolding Africa","https://inclusionunfolding.org","Democracy, Peace & Justice",0],
   ["Sky Campus Happiness","https://www.skycampushappiness.org","Entrepreneurship & Local Impact",0],
   ["Masambeni South African Internships","https://www.masambeni.com","Entrepreneurship & Local Impact",0],
