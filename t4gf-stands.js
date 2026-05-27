@@ -73,7 +73,7 @@ var O=[
   ["Move 4 Human Rights","https://justiceandpeace.nl/en/initiatives/move-4-human-rights/","Democracy, Peace & Justice",0],
   ["IdentIT","https://www.identit.eu","Tech for Good",0],
   ["Stichting Queer Mind","https://stichtingqueermind.nl","Democracy, Peace & Justice",0]
-  ["ANKA (Association of Networking Knowledge and Advancement)","https://associationanka.nl","Entrepreneurship & Local Impact",0]
+  ["ANKA Association of Networking Knowledge and Advancement","https://associationanka.nl","Entrepreneurship & Local Impact",0]
 
 ];
 
